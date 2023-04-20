@@ -1,0 +1,5 @@
+C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\bin\Release\GoldFeverScaler.dll
+C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\bin\Release\GoldFeverScaler.pdb
+C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Release\GoldFeverScaler.csproj.CoreCompileInputs.cache
+C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Release\GoldFeverScaler.dll
+C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Release\GoldFeverScaler.pdb

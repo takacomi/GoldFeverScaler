@@ -1,6 +1,0 @@
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\bin\Debug\GoldFeverScaler.dll
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\bin\Debug\GoldFeverScaler.pdb
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Debug\GoldFeverScaler.csproj.AssemblyReference.cache
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Debug\GoldFeverScaler.csproj.CoreCompileInputs.cache
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Debug\GoldFeverScaler.dll
-C:\Users\Takacomic\OneDrive\Documents\GitHub\GoldFeverScaler\obj\Debug\GoldFeverScaler.pdb
